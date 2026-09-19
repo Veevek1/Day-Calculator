@@ -21,7 +21,7 @@ Date Reminder supports yearly reminders for birthdays and anniversaries. It also
 
 - Light and dark mode
 - Works offline
-- No internet connection is required     for the main features.
+- No internet connection is required     for any features.
 
 ## Download
 
