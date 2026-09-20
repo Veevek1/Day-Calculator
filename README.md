@@ -1,5 +1,8 @@
 # Day Calculator
 
+[![Top Language](https://img.shields.io/github/languages/top/Veevek1/Day-Calculator)](https://github.com/Veevek1/Day-Calculator)
+[![Languages](https://img.shields.io/github/languages/count/Veevek1/Day-Calculator)](https://github.com/Veevek1/Day-Calculator)
+
 Day Calculator is a simple Android app for working with dates and keeping track of important days.
 
 ## Features
@@ -21,7 +24,7 @@ Date Reminder supports yearly reminders for birthdays and anniversaries. It also
 
 - Light and dark mode
 - Works offline
-- No internet connection is required     for any features.
+- No internet connection is required for any features.
 
 ## Download
 
