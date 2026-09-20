@@ -1,19 +1,13 @@
-# GitHub Linguist language overrides for Day Calculator
-# Use these classifications so GitHub shows the project languages correctly.
-
-# Android app source files
+# GitHub Linguist: Kotlin Android app
 *.kt linguist-language=Kotlin
 *.kts linguist-language=Kotlin
-*.java linguist-language=Java
 *.xml linguist-language=XML
 
-# Mark generated/build outputs as generated so they do not skew language stats
+# Exclude generated/build files from language stats
 build/ linguist-generated=true
 .gradle/ linguist-generated=true
 .idea/ linguist-generated=true
 *.apk linguist-generated=true
 *.aab linguist-generated=true
 
-# Exclude lockfiles and docs from language stats if needed
-*.lock linguist-generated=true
 README.md linguist-documentation=true
