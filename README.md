@@ -37,10 +37,12 @@ Day Calculator works completely offline.
 ## Screenshots
 
 <p align="center">
+  <img src="Screenshot_2026-09-21-00-08-49-80_ba86c378142edb3e7ed210b1a2a98334.jpg" width="220">
   <img src="Screenshot_2026-09-21-00-10-22-88_ba86c378142edb3e7ed210b1a2a98334.jpg" width="220">
   <img src="Screenshot_2026-09-21-00-10-33-29_ba86c378142edb3e7ed210b1a2a98334.jpg" width="220">
   <img src="Screenshot_2026-09-21-00-13-49-81_ba86c378142edb3e7ed210b1a2a98334.jpg" width="220">
   <img src="Screenshot_2026-09-21-00-15-25-32_b783bf344239542886fee7b48fa4b892.jpg" width="220">
+  <img src="Screenshot_2026-09-21-00-09-31-10_ba86c378142edb3e7ed210b1a2a98334.jpg" width="220">
 </p>
 
 ## Download
