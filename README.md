@@ -1,18 +1,25 @@
-# Day Calculator
+<p align="center">
+  <img src="day-calculator-icon.png" width="120" alt="Day Calculator">
+</p>
 
-**A simple, private, and completely offline date calculator and reminder app for Android.**
+<h1 align="center">Day Calculator</h1>
 
-[![Android](https://img.shields.io/badge/Platform-Android-green)](https://www.android.com/)
-[![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple)](https://kotlinlang.org/)
-[![Offline](https://img.shields.io/badge/Internet-Not%20Required-blue)](#offline--privacy)
-[![Latest Release](https://img.shields.io/github/v/release/Veevek1/Day-Calculator)](https://github.com/Veevek1/Day-Calculator/releases)
+<p align="center">
+  A simple, private, and completely offline date calculator and reminder app for Android.
+</p>
 
-Calculate dates, track important days, manage reminders, and use home-screen widgets — all without an internet connection.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green" alt="Android">
+  <img src="https://img.shields.io/badge/Language-Kotlin-purple" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Internet-Not%20Required-blue" alt="Offline">
+  <img src="https://img.shields.io/github/v/release/Veevek1/Day-Calculator" alt="Latest Release">
+</p>
 
-**Current version: 3.42.4**
+<p align="center">
+  <strong>Current version: 3.42.4</strong>
+</p>
 
 ---
-
 ## Features
 
 The app has six sections:
