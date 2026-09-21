@@ -34,6 +34,15 @@ Day Calculator works completely offline.
 - Simple and lightweight
 - Works without an internet connection
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshot_2026-09-21-00-10-22-88_ba86c378142edb3e7ed210b1a2a98334.jpg" width="220">
+  <img src="Screenshot_2026-09-21-00-10-33-29_ba86c378142edb3e7ed210b1a2a98334.jpg" width="220">
+  <img src="Screenshot_2026-09-21-00-13-49-81_ba86c378142edb3e7ed210b1a2a98334.jpg" width="220">
+  <img src="Screenshot_2026-09-21-00-15-25-32_b783bf344239542886fee7b48fa4b892.jpg" width="220">
+</p>
+
 ## Download
 
 The latest APK is available in the [Releases](../../releases) section.
