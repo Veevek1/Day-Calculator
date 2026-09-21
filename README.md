@@ -1,7 +1,19 @@
 # Day Calculator
 
-Day Calculator is a simple Android app for working with dates and keeping track of important days.
+**A simple, private, and completely offline date calculator and reminder app for Android.**
 
+[![Android](https://img.shields.io/badge/Platform-Android-green)](https://www.android.com/)
+[![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple)](https://kotlinlang.org/)
+[![Offline](https://img.shields.io/badge/Internet-Not%20Required-blue)](#offline--privacy)
+[![Latest Release](https://img.shields.io/github/v/release/Veevek1/Day-Calculator)](https://github.com/Veevek1/Day-Calculator/releases)
+
+Calculate dates, track important days, manage reminders, and use home-screen widgets — all without an internet connection.
+
+**Current version: 3.42.4**
+
+---
+
+## Features
 ## Features
 
 The app has six sections:
