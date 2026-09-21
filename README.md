@@ -14,7 +14,6 @@ Calculate dates, track important days, manage reminders, and use home-screen wid
 ---
 
 ## Features
-## Features
 
 The app has six sections:
 
