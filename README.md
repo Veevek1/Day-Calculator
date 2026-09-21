@@ -70,4 +70,14 @@ Day Calculator works completely offline.
 
 ## Download
 
-The latest APK is available in the [Releases](../../releases) section.
+Download the latest version of Day Calculator from GitHub Releases.
+
+<p align="center">
+  <a href="../../releases/latest">
+    <strong>Download Latest APK</strong>
+  </a>
+</p>
+
+The APK can be installed directly on an Android device. No internet connection is required after installation.
+
+For older versions, visit the [Releases](../../releases) page.
