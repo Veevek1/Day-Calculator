@@ -36,19 +36,19 @@ Day Calculator works completely offline.
 
 ## Screenshots
 
-<p align="center">
-  <img src="Screenshot_2026-09-21-00-08-49-80_ba86c378142edb3e7ed210b1a2a98334.jpg" width="180">
-  <img src="Screenshot_2026-09-21-00-10-22-88_ba86c378142edb3e7ed210b1a2a98334.jpg" width="180">
-  <img src="Screenshot_2026-09-21-00-10-33-29_ba86c378142edb3e7ed210b1a2a98334.jpg" width="180">
-  <img src="Screenshot_2026-09-21-00-13-49-81_ba86c378142edb3e7ed210b1a2a98334.jpg" width="180">
-</p>
+### Main & Calculator Screens
 
-<p align="center">
-  <img src="Screenshot_2026-09-21-00-15-25-32_b783bf344239542886fee7b48fa4b892.jpg" width="180">
-  <img src="Screenshot_2026-09-21-00-09-31-10_ba86c378142edb3e7ed210b1a2a98334.jpg" width="180">
-  <img src="Screenshot_2026-09-21-00-13-20-31_ba86c378142edb3e7ed210b1a2a98334.jpg" width="180">
-  <img src="Screenshot_2026-09-21-00-16-17-55_ba86c378142edb3e7ed210b1a2a98334.jpg" width="180">
-</p>
+| | |
+|---|---|
+| ![Screenshot 1](Screenshot_2026-09-21-00-08-49-80_ba86c378142edb3e7ed210b1a2a98334.jpg) | ![Screenshot 2](Screenshot_2026-09-21-00-09-31-10_ba86c378142edb3e7ed210b1a2a98334.jpg) |
+| ![Screenshot 3](Screenshot_2026-09-21-00-10-22-88_ba86c378142edb3e7ed210b1a2a98334.jpg) | ![Screenshot 4](Screenshot_2026-09-21-00-10-33-29_ba86c378142edb3e7ed210b1a2a98334.jpg) |
+
+### Reminders & Widgets
+
+| | |
+|---|---|
+| ![Screenshot 5](Screenshot_2026-09-21-00-13-20-31_ba86c378142edb3e7ed210b1a2a98334.jpg) | ![Screenshot 6](Screenshot_2026-09-21-00-13-49-81_ba86c378142edb3e7ed210b1a2a98334.jpg) |
+| ![Screenshot 7](Screenshot_2026-09-21-00-15-25-32_b783bf344239542886fee7b48fa4b892.jpg) | ![Screenshot 8](Screenshot_2026-09-21-00-16-17-55_ba86c378142edb3e7ed210b1a2a98334.jpg) |
 
 ## Download
 
