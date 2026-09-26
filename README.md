@@ -1,6 +1,7 @@
 <p align="center">
   <img src="day-calculator-icon2.png" width="120" alt="DayCalcy">
-</p>
+<p align="center">
+  <img src="day-calculator-icon.png" width="120" alt="DayCalcy">
 </p>
 
 <h1 align="center">DayCalcy</h1>
@@ -26,36 +27,97 @@
 
 DayCalcy includes:
 
-1. **Age Calculator** — Calculate your exact age.
-2. **Date Difference** — Find the number of days between two dates.
-3. **Add / Subtract Date** — Add or subtract time from a date.
-4. **Day Counter** — Count days from a selected date.
+1. **Age Calculator** — Calculate exact age, including age at a selected date and next-birthday information.
+2. **Date Difference** — Calculate the difference between two dates, with an option to include the end date.
+3. **Add / Subtract Date** — Add or subtract years, months, weeks, days, and business days from a date.
+4. **Day Counter** — Count days between dates, including business-day mode and holiday handling.
 5. **Day of Week** — Find the weekday for any date.
-6. **Date Reminder** — Save important dates and see their countdowns.
-7. **Calendar** — View dates, reminders, history markers, and yearly reminders.
-8. **History** — Automatically keep recent calculation results locally.
+6. **Date Reminder** — Create one-time and yearly recurring reminders with local notifications.
+7. **Calendar** — Browse dates, reminders, history markers, and yearly reminders.
+8. **History** — Automatically save recent calculation results locally, with filters, grouping, reopening, and deletion.
 9. **Year Progress** — View progress through the selected year.
-10. **Widgets** — Home-screen widgets in 2×2 and 4×2 sizes.
+10. **Widgets** — Home-screen countdown widgets in 2×2 and 4×2 sizes.
+11. **Theme Support** — System, Light, and Dark theme modes.
+
+## Calculators
+
+### Age Calculator
+
+- Exact age in years, months, and days.
+- Calculate age at a selected date.
+- Next birthday countdown and weekday information.
+
+### Date Difference
+
+- Calculate the difference between two dates.
+- Optional include-end-date calculation.
+- Business-day calculations.
+- Custom holiday support.
+
+### Add / Subtract Date
+
+- Add or subtract years, months, weeks, and days.
+- Business-day mode with holiday handling.
+
+### Day Counter
+
+- Count days between selected dates.
+- Business-day mode.
+- Custom holiday support.
+
+### Day of Week
+
+- Find the weekday for any date.
+- Includes useful date information such as day of year, ISO week, and days remaining in the year.
 
 ## Calendar & Reminders
 
-- Select any date from the calendar.
-- View reminders associated with the selected date.
-- One-time and yearly recurring reminders are supported.
-- Yearly reminders can be used for birthdays, anniversaries, and other recurring dates.
+- Select any date from the calendar without automatically opening a reminder.
+- View reminders and other date information for the selected date.
+- Calendar markers distinguish History, one-time reminders, and yearly reminders.
+- Yearly reminders appear on the same month and day each year.
+- Tap a reminder item to open the corresponding reminder in Date Reminder.
+- Returning from a reminder preserves the Calendar state.
+- Multiple reminders can be shown for the same date.
 - Reminder notifications work locally on the device.
-- Calendar reminder markers distinguish one-time and yearly reminders.
-- Tapping a reminder item opens the corresponding reminder in Date Reminder.
+- Reminder actions include Done and Snooze.
+- Deleted reminders cancel their already-posted notifications.
+- Reminder scheduling includes exact-alarm handling with an inexact fallback when exact alarms are unavailable.
+- Reminders are restored and rescheduled after relevant device time, timezone, and reboot events.
+- When opening a specific reminder from Calendar, Date Reminder automatically scrolls to it and briefly highlights it with a soft theme-aware color.
 
 ## History
 
 Calculation results can be saved automatically to local history.
 
-- View previous calculations.
-- Filter and browse saved results.
+- Recent calculations are stored on the device.
+- Filters and grouping make saved calculations easier to browse.
 - Open a history entry to view the exact calculation again.
-- History stays on the device.
-- No online account or service is required.
+- Individual entries can be deleted.
+- History is limited to the most recent 100 entries.
+- History does not continuously save Year Progress screens.
+
+## Year Progress
+
+- View progress through the selected year.
+- Calendar Information can show Year Progress for the selected date.
+- Year Progress notifications and widget support are available.
+
+## Widgets
+
+- 2×2 countdown widget.
+- 4×2 wide countdown widget.
+- Multiple widget instances can use different saved reminders/dates.
+- Countdown information updates locally.
+- Progress ring support.
+- Light and Dark widget appearance follows the DayCalcy theme.
+- Widgets remain completely offline.
+
+## Results & Sharing
+
+- Copy the complete calculation result with one Copy action.
+- Share the complete calculation result with one Share action.
+- Actions are shown once for the complete result rather than repeated on every result section.
 
 ## Offline & Privacy
 
@@ -63,17 +125,16 @@ DayCalcy works completely offline.
 
 - No internet connection is required.
 - No online APIs or remote services are used.
-- Calculations, reminders, and history stay on your device.
-- No account is required.
+- No analytics or account is required.
+- Calculations, reminders, history, and settings stay on the device.
 - The app is designed to work without network access.
 
 ## Other
 
-- Light and dark mode
-- Simple and lightweight interface
-- Copy and Share for complete calculation results
-- Android home-screen widgets
-- Completely offline operation
+- System, Light, and Dark themes.
+- About section with Changelog.
+- Local reminder notifications.
+- Simple and lightweight interface.
 
 ## Screenshots
 
