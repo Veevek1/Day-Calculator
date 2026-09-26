@@ -163,10 +163,3 @@ Download the latest version of DayCalcy from GitHub Releases.
 The app works completely offline after installation.
 
 For older versions, visit the [Releases](../../releases) page.
-
-## License
-
-DayCalcy is free and open-source software licensed under the
-**GNU General Public License v3.0**.
-
-See [LICENSE](LICENSE) for the full license text.
