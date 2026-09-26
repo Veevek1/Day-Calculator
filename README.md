@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="daycalcy-icon.png."width="120" alt="DayCalcy">
-<p align="center">
+  <img src="daycalcy-icon.png" width="120" alt="DayCalcy">
 </p>
 
 <h1 align="center">DayCalcy</h1>
