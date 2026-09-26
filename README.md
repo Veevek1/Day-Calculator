@@ -163,3 +163,7 @@ Download the latest version of DayCalcy from GitHub Releases.
 The app works completely offline after installation.
 
 For older versions, visit the [Releases](../../releases) page.
+
+## License
+
+See [LICENSE](LICENSE) for license details.
