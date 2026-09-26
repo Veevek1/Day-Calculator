@@ -152,7 +152,7 @@ DayCalcy works completely offline.
 
 ### History & Calendar
 
-| History | Calendar |
+| | |
 |---|---|
 | ![History](Screenshot/1.jpg) | ![Calendar](Screenshot/2.jpg) |
 
