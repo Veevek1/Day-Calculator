@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="day-calculator-icon2.png" width="120" alt="DayCalcy">
+  <img src="daycalcy-old.png" width="120" alt="DayCalcy">
 <p align="center">
 </p>
 
