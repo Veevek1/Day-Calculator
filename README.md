@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="day-calculator-icon.png" width="120" alt="Day Calculator">
+  <img src="day-calculator-icon.png" width="120" alt="DayCalcy">
 </p>
 
-<h1 align="center">Day Calculator</h1>
+<h1 align="center">DayCalcy</h1>
 
 <p align="center">
   A simple, private, and completely offline date calculator and reminder app for Android.
@@ -12,17 +12,18 @@
   <img src="https://img.shields.io/badge/Platform-Android-green" alt="Android">
   <img src="https://img.shields.io/badge/Language-Kotlin-purple" alt="Kotlin">
   <img src="https://img.shields.io/badge/Internet-Not%20Required-blue" alt="Offline">
-  <img src="https://img.shields.io/github/v/release/Veevek1/Day-Calculator" alt="Latest Release">
+  <img src="https://img.shields.io/github/v/release/Veevek1/DayCalcy" alt="Latest Release">
 </p>
 
 <p align="center">
-  <strong>Current version: 3.42.4</strong>
+  <strong>Current version: 3.42.8</strong>
 </p>
 
 ---
+
 ## Features
 
-The app has six sections:
+DayCalcy includes:
 
 1. **Age Calculator** — Calculate your exact age.
 2. **Date Difference** — Find the number of days between two dates.
@@ -30,27 +31,48 @@ The app has six sections:
 4. **Day Counter** — Count days from a selected date.
 5. **Day of Week** — Find the weekday for any date.
 6. **Date Reminder** — Save important dates and see their countdowns.
+7. **Calendar** — View dates, reminders, history markers, and yearly reminders.
+8. **History** — Automatically keep recent calculation results locally.
+9. **Year Progress** — View progress through the selected year.
+10. **Widgets** — Home-screen widgets in 2×2 and 4×2 sizes.
 
-## Date Reminder
+## Calendar & Reminders
 
-Date Reminder supports yearly reminders for birthdays, anniversaries, and other important dates.
+- Select any date from the calendar.
+- View reminders associated with the selected date.
+- One-time and yearly recurring reminders are supported.
+- Yearly reminders can be used for birthdays, anniversaries, and other recurring dates.
+- Reminder notifications work locally on the device.
+- Calendar reminder markers distinguish one-time and yearly reminders.
+- Tapping a reminder item opens the corresponding reminder in Date Reminder.
 
-Home-screen widgets are available in 2×2 and 4×2 sizes.
+## History
+
+Calculation results can be saved automatically to local history.
+
+- View previous calculations.
+- Filter and browse saved results.
+- Open a history entry to view the exact calculation again.
+- History stays on the device.
+- No online account or service is required.
 
 ## Offline & Privacy
 
-Day Calculator works completely offline.
+DayCalcy works completely offline.
 
 - No internet connection is required.
-- No online APIs or services are used.
-- Your date calculations and reminders stay on your device.
-- The app does not need an account to work.
+- No online APIs or remote services are used.
+- Calculations, reminders, and history stay on your device.
+- No account is required.
+- The app is designed to work without network access.
 
 ## Other
 
 - Light and dark mode
-- Simple and lightweight
-- Works without an internet connection
+- Simple and lightweight interface
+- Copy and Share for complete calculation results
+- Android home-screen widgets
+- Completely offline operation
 
 ## Screenshots
 
@@ -70,7 +92,7 @@ Day Calculator works completely offline.
 
 ## Download
 
-Download the latest version of Day Calculator from GitHub Releases.
+Download the latest version of DayCalcy from GitHub Releases.
 
 <p align="center">
   <a href="../../releases/latest">
@@ -81,3 +103,10 @@ Download the latest version of Day Calculator from GitHub Releases.
 The app works completely offline after installation.
 
 For older versions, visit the [Releases](../../releases) page.
+
+## License
+
+DayCalcy is free and open-source software licensed under the
+**GNU General Public License v3.0**.
+
+See [LICENSE](LICENSE) for the full license text.
