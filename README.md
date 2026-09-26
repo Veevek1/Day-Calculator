@@ -1,7 +1,6 @@
 <p align="center">
   <img src="day-calculator-icon2.png" width="120" alt="DayCalcy">
 <p align="center">
-  <img src="day-calculator-icon.png" width="120" alt="DayCalcy">
 </p>
 
 <h1 align="center">DayCalcy</h1>
