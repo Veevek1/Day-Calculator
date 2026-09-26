@@ -6,6 +6,8 @@
 
 <p align="center">
   A simple, private, and completely offline date calculator and reminder app for Android.
+  <br>
+  <strong>Free and open-source software licensed under GNU GPL v3.0.</strong>
 </p>
 
 <p align="center">
