@@ -150,6 +150,12 @@ DayCalcy works completely offline.
 | ![Screenshot 5](Screenshot/2026-09-21-00-13-20-31_ba86c378142edb3e7ed210b1a2a98334.jpg) | ![Screenshot 6](Screenshot/2026-09-21-00-13-49-81_ba86c378142edb3e7ed210b1a2a98334.jpg) |
 | ![Screenshot 7](Screenshot/2026-09-21-00-15-25-32_b783bf344239542886fee7b48fa4b892.jpg) | ![Screenshot 8](Screenshot/2026-09-21-00-16-17-55_ba86c378142edb3e7ed210b1a2a98334.jpg) |
 
+### History & Calendar
+
+| History | Calendar |
+|---|---|
+| ![History](Screenshot/1.jpg) | ![Calendar](Screenshot/2.jpg) |
+
 ## Download
 
 Download the latest version of DayCalcy from GitHub Releases.
