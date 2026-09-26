@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="day-calculator-icon2.png" width="120" alt="DayCalcy">
+  <img src="day-calculator-icon2.png"
+     width="120"
+     alt="DayCalcy"
+     style="border-radius: 20px;">
 </p>
 
 <h1 align="center">DayCalcy</h1>
